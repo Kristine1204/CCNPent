@@ -551,7 +551,7 @@ conf t
    name 1143
           
   voice register pool 1
-    id mac 7EA6.DB02.4186
+    id mac fed7.3102.98e2
     number 1 dn 1
     dtmf-relay sip-notify
     username 1123 password 1123
