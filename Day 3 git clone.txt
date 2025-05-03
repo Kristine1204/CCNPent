@@ -1,0 +1,10 @@
+Day 3 CCNP
+
+https://github.com/ggenergg/PLDT-IPVPNkuno-SupahLAB
+dir
+cd ___Kristine
+git clone https://github.com/ggenergg/PLDT-IPVPNkuno-SupahLAB
+network adapter: Custom VMnet 8, 15 and 16
+
+
+https://github.com/ggenergg/RST-DualStackRouting
